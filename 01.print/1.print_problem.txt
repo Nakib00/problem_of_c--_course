@@ -5,8 +5,9 @@ Bilkis replies with obvious disinterest, “Get away from me.
 Mofis’s heart starts pounding. He stutters, Why?
 Bilkis looks at Mofis and says, Because I’m in love with Shamsu!
 
-    [solution](Problem solve\01.print\01_print_solve.cpp)
-
+    [solution](https://github.com/Nakib00/problem_of_c--_course/blob/5d05fa389f68d6c17fde7ff3b72ae2cde6c415da/01.print/01_print_solve.cpp)
+    
+    
 
 2.write a program that print the following line
 
@@ -22,7 +23,8 @@ The sizeof(double) is : 8 bytes
 The sizeof(long double) is : 16 bytes
 The sizeof(bool) is : 1 bytes
 
-    [solution](Problem solve\01.print\02_print_solve.cpp)
+    [solution](https://github.com/Nakib00/problem_of_c--_course/blob/5d05fa389f68d6c17fde7ff3b72ae2cde6c415da/01.print/02_print_solve.cpp)
+
 
 
 3.write a program that print the following line
@@ -37,7 +39,7 @@ GPA is 4.69
 Salary drawn upto : 12047235
 Balance till : 995324987
 
-    [solution](Problem solve\01.print\03_print_solve.cpp)
+    [solution](https://github.com/Nakib00/problem_of_c--_course/blob/5d05fa389f68d6c17fde7ff3b72ae2cde6c415da/01.print/03_print_solve.cpp)
 
 
 
