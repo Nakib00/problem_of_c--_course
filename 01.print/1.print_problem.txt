@@ -1,0 +1,44 @@
+1.write a program that print the following line
+
+Mofis says to Bilkis, I really like you. 
+Bilkis replies with obvious disinterest, “Get away from me.
+Mofis’s heart starts pounding. He stutters, Why?
+Bilkis looks at Mofis and says, Because I’m in love with Shamsu!
+
+    [solution](Problem solve\01.print\01_print_solve.cpp)
+
+
+2.write a program that print the following line
+
+Find Size of fundamental data types :
+------------------------------------------
+The sizeof(char) is : 1 bytes
+The sizeof(short) is : 2 bytes
+The sizeof(int) is : 4 bytes
+The sizeof(long) is : 8 bytes
+The sizeof(long long) is : 8 bytes
+The sizeof(float) is : 4 bytes
+The sizeof(double) is : 8 bytes
+The sizeof(long double) is : 16 bytes
+The sizeof(bool) is : 1 bytes
+
+    [solution](Problem solve\01.print\02_print_solve.cpp)
+
+
+3.write a program that print the following line
+
+The Gender is : F
+Is she married? : 1
+Number of sons she has : 2
+Year of her appointment : 2009
+Salary for a year : 1500000
+Height is : 79.48
+GPA is 4.69
+Salary drawn upto : 12047235
+Balance till : 995324987
+
+    [solution](Problem solve\01.print\03_print_solve.cpp)
+
+
+
+
