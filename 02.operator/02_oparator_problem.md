@@ -1,7 +1,7 @@
 1.write a program that takes the radius of a circle from the user
 and prints the area and circumference of the circle
 </br></br>
-[solution]()
+[solution](https://github.com/Nakib00/problem_of_c--_course/blob/main/02.operator/01.cpp)
 
  </br></br>
 
@@ -9,7 +9,7 @@ and prints the area and circumference of the circle
 and displays the temperature in Celsius and in Kelvin. Use the
 conversion formulae 5(F 32) =9C and C=K 273.15.
 </br></br>
-[solution]()
+[solution](https://github.com/Nakib00/problem_of_c--_course/blob/main/02.operator/02.cpp)
 
 </br></br>
 
@@ -18,4 +18,4 @@ digit positive integer from
 the user and then prints the reversed numb er. For example, if
 the user enters 289, the program print s 982.
 </br></br>
-[solution]()
+[solution](https://github.com/Nakib00/problem_of_c--_course/blob/main/02.operator/03.cpp)
